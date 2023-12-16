@@ -1,6 +1,6 @@
 # Advent of Code: Day 1
 
-with open("input.txt", "r") as f:
+with open("input_1.txt", "r") as f:
     puzzle_input = f.read()
     
 lines = puzzle_input.split("\n")
